@@ -26,7 +26,7 @@ This file 'run_analysis.R' contains all the code to perform the analyses describ
 
 File with R code "run_analysis.R" perform 5 following steps:
 
-Merging the training and the test sets to create one data set.
+*Merging the training and the test sets to create one data set.
 1.1 Reading files
 1.1.1 Reading trainings tables
 1.1.2 Reading testing tables
@@ -42,6 +42,6 @@ Using descriptive activity names to name the activities in the data set
 Appropriately labeling the data set with descriptive variable names
 Creating a second, independent tidy data set with the average of each variable for each activity and each subject
 5.1 Making second tidy data set
-5.2 Writing second tidy data set in txt file
+5.2 Writing second tidy data set in txt file*
 
 
