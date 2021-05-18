@@ -27,7 +27,7 @@ This file 'run_analysis.R' contains all the code to perform the analyses describ
 File with R code "run_analysis.R" perform 5 following steps:
 
 *Merging the training and the test sets to create one data set.
-1.1 Reading files
+*1.1 Reading files
 1.1.1 Reading trainings tables
 1.1.2 Reading testing tables
 1.1.3 Reading feature vector
